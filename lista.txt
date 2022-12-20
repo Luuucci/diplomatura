@@ -3,3 +3,5 @@ manzanas
 manteca
 bananas
 mandarinas
+azucar
+queso
